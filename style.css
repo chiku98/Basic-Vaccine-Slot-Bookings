@@ -1,0 +1,41 @@
+.navbar-logo {
+    background-color: #00CED1 !important;
+}
+
+.screen{
+    height: 75vh;
+    width: 100%;
+    background-image: url(/images/img.jpg);
+    background-size: cover;
+    background-attachment: fixed; 
+}
+
+
+.appointment-form {
+    border-radius: 10px;
+    margin-top: 100px;
+    padding: 40px 0;
+    box-shadow: 10px 10px 10px;
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.form-heading {
+    color: #fff;
+    text-decoration: underline;
+    text-transform: uppercase;
+    padding-bottom: 40px;
+}
+.btn-primary{
+    background-color: #00CED1 !important;
+    border-color: #00CED1 !important;
+}
+.form-label{
+    font-weight: bolder !important;
+    color: #fff !important;
+}
+.btn-primary:hover {
+    color: #00CED1 !important;
+    background-color:#fff !important;
+    border: 1px solid #00CED1;
+}

@@ -1,0 +1,10 @@
+.navbar-logo{
+    background-color: #00CED1;
+}
+
+
+.admin-table th{
+    border-bottom: 2px solid #00CED1 !important;
+    color: #00CED1;
+    text-transform: uppercase;
+}
